@@ -5,7 +5,7 @@ permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-I’m Du Van Nguyen (xHadesvn), 21 years old. I am a sophomore of FPT University Viet Nam and my major is Software Engineering. I’m interested in Web Developing, Software Development, Cloud and Infomation Assurance. And current work, Technical Evangelist at Microsoft Viet Nam.
+I’m Du Van Nguyen (xHadesvn), 21 years old. I am a sophomore of FPT University Viet Nam and my major is Software Engineering. I’m interested in Web Developing, Software Development, Cloud and Infomation Assurance. And current work, Technical Evangelist at Microsoft Student Partner Viet Nam.
 
 I am capable of Teamwork, Critical Thinking and Self - Researching. I had a 6 - year experience working freelancer such as develop website, code software. Besides, I also interested in “Start-up” related to Technology and Software.
 
