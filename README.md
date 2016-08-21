@@ -1,4 +1,4 @@
-# Personal Blog by xHadesvn © 2016
+# Personal Blog 
 
 ![Default Type Theme blog](http://i.imgur.com/xPJ714T.png)
 
