@@ -6,14 +6,14 @@ url: "http://xhadesvn.com" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Tôi là <strong id="typist-element" data-typist="Developer, Blogger, @xHadesvn">Du</strong>
-  avatar: avatar.jpg
+  avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text: >
      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
@@ -28,14 +28,14 @@ theme_settings:
   github: "xHadesvn"
   google_plus:
   instagram: xHadesvn
-  linkedin:  https://www.linkedin.com/in/duvannguyen
+  linkedin: https://www.linkedin.com/in/duvannguyen
   pinterest:
   reddit:
   soundcloud: xHadesvn
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: 
+  twitter: "twitter"
   wordpress:
   youtube:
 
