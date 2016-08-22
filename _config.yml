@@ -12,6 +12,17 @@ theme_settings:
 
   # Header and footer text
   header_text: >
+  <script>
+  typist = document.querySelector "#typist-element"
+  new Typist typist,
+  letterInterval: 60
+  textInterval:   3000
+  </script>
+  <style type="text/css">
+ .selectedText {
+  background: #f00;
+}
+</style>
     <p><h1>Tôi là <strong id="typist-element" data-typist="Developer,Blogger,@xHadesvn">Du</strong></h1></p>
      
   header_text_feature_image:
