@@ -5,7 +5,7 @@ url: "http://xhadesvn.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tôi là <strong id="typist-element" data-typist="Developer,Blogger,@xHadesvn">Du</strong>
+  title: xHadesvn
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
