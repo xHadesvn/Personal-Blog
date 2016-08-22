@@ -11,12 +11,14 @@ theme_settings:
   description: "A Blog of xHadesvn - Du Van Nguyen!!!" # used by search engines
 
   # Header and footer text
- 
+  header_text: >
+  Tôi là <strong id="typist-element" data-typist="Developer, Blogger, @xHadesvn">Du</strong>
+  header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+  Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
-  rss: false
+  rss: true
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
