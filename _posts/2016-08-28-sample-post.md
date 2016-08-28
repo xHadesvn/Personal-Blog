@@ -10,5 +10,5 @@ Cách đây khoảng hơn tuần, Microsoft đã cho ra mắt một tính năng 
 # Xin mời các bạn hãy theo dõi video hướng dẫn chi tiết ở phía dưới: 
 <p align="center">
   <b>Xin mời các bạn hãy theo dõi video hướng dẫn chi tiết ở phía dưới: </b><br>
-  <<iframe width="560" height="315" src="https://www.youtube.com/embed/8ptCRiA_500" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/8ptCRiA_500" frameborder="0" allowfullscreen></iframe>
 </p>
